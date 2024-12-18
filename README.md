@@ -1,4 +1,4 @@
-### => Please just use [codeberg.org](https://codeberg.org)
+### => Please just use [Codeberg](https://codeberg.org) instead
 
 Don't waste your time developing free & open-source software on a software platform that is
 not FOSS itself!
@@ -10,4 +10,6 @@ licensed under GPL-2.0 and is actively community-maintained.
 
 Want to learn more about Codeberg? [Feel free to browse the docs](https://docs.codeberg.org/getting-started/what-is-codeberg/).
 Want to learn more about GitHub? [Take a look at the "Give Up GitHub!"
-compaign](https://sfconservancy.org/GiveUpGitHub/)
+compaign](https://sfconservancy.org/GiveUpGitHub/).
+
+Stop looking away and take action now!
